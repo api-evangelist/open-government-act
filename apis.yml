@@ -39,7 +39,6 @@ apis:
   - name: Open Government, ACT
     description: "Australian Capital Territory Open Data"
     humanURL: https://www.data.act.gov.au/
-    baseURL: https://www.data.act.gov.au/
     tags:
       - Government
     properties:
